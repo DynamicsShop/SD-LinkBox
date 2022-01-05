@@ -1,5 +1,17 @@
 ## SD Linkbox Releases
 
+### 5.0.1
+
+#### Enhancements
+
+- BCv19 App - Added the Latest Version of the product and the AppSource URL to the About Page. 
+
+- BCv19 App - Added the Latest ISV Licence Control with fix to Free Trials in Public Environments. 
+
+#### Bug Fixes
+
+- BCv19 App - The Product Activation page was updated to disable the Activate button until a Product Key is filled in. This will avoid an error being raised when Activate is chosen with no Product Key entered. 
+
 ### 5.0.0
 
 #### Enhancements
