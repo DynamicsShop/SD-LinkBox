@@ -1,5 +1,38 @@
 ## SD Linkbox Releases
 
+### 6.0.0
+
+#### Enhancements
+- BCv21 App - New functionality was added to SD LinkBox to allow a user to surface a Drop Point on a page without the need for a developer to create an extension. Users can create and publish a custom extension in the SD Linkbox Extension page.
+
+- BCv21 App - The App Name field in the SD Linkbox Extension page was changed to default to SD Linkbox Extension and was set to non-editable. After choosing the Create App action, the Publisher field is also set to non-editable.
+
+- BCv21 App - The Actions in the Related group on the SD Linkbox Setup were reordered and action names were updated.
+
+- BCv21 App -A small typo in the SD Linkbox Extension page was fixed.
+
+- BCv21 App - A change was made to the message displayed when the user chooses the Publish Package action in the SD Linkbox Extension page.
+
+- BCv21 App - The action names in the SD Linkbox Extension page were changed to Create App, Download App and Publish App and the Runtime Version field was removed from the page.
+
+- BCv21 App - The Change Type field in the Page Extensions list on the SD Linkbox Extensions page was changed to FactBox Position.
+
+- BCv21 App - The Product Activation Page was updated to point to the new CRM URL.
+
+- BCv21 App - The Licence Expiry Message/Notification was updated with the App Name.
+
+- BCv21 App - A new page was created to display all Simply Dynamics Apps and Subscription details for the tenant.
+
+- BCv21 App - The Licence Message displayed on first install of App was changed to prompt the user to activate a free trial and choose Assisted Setup to create demo data.
+
+- BCv21 App - The URL links in the About page were updated to point at our new website.
+
+- BCv21 App - The ToolTips were updated to look at our new website.
+
+#### Bug Fixes
+
+- BCv21 App - A fix was made to the code for licence key checks on the SD LinkBox Role Centre.
+
 ### 5.0.1
 
 #### Enhancements
