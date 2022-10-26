@@ -9,7 +9,7 @@
 
 - BCv21 App - The Actions in the Related group on the SD Linkbox Setup were reordered and action names were updated.
 
-- BCv21 App -A small typo in the SD Linkbox Extension page was fixed.
+- BCv21 App - A small typo in the SD Linkbox Extension page was fixed.
 
 - BCv21 App - A change was made to the message displayed when the user chooses the Publish Package action in the SD Linkbox Extension page.
 
