@@ -1,5 +1,21 @@
 ## SD Linkbox Releases
 
+### 6.0.1
+
+#### Enhancements
+
+- AppSource App - A change was made to limit the SD ISV Tenant Subscriptions page to display just our SD ISV AppSource Apps and not other SD PTE Apps.
+
+#### Bug Fixes
+
+- AppSource App - An error was raised on upload of files to a Drop Point that "A call to System.Security.Cryptography...failed with this error message...". SD Linkbox was using block size of 256 this has been restricted to 128 by Business Central. Passwords will need to be re-entered in the SD Linkbox Setup Card. 
+
+- AppSource App - When selecting SD Linkbox activity pages in a the Tell Me/Search in a BCv22 environment, the activity pages were hanging.
+
+- AppSource App - A change was made to the ISV Licence Notification procedure in SD Linkbox to fix an issue that would raise an error when the language is changed from English to another language.
+
+- AppSource App - An error will raise in the Assisted Setup import if non sequential enum values exist in the imported data. This was fixed.
+
 ### 6.0.0
 
 #### Enhancements
