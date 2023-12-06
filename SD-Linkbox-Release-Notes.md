@@ -8,7 +8,7 @@
 
 - AppSource App - On creation of a new drop point the values entered in the Setup Card in the Azure Blob Storage FastTab are inserted into the Drop Point. If the Drop Point is already created and details on the Setup Card for Azure Blob Storage are changed, it is not best practice to automatically update values on existing Drop Points that are being used. Choose the Apply Shared Key to existing Drop Points action on the SD LinkBox Setup card to update the Shared Key to Drop Points with the same storage account name.
 
-- AppSource App - AppSource App - The extension uploading dialog  in the SD LinkBox Extension page was updated.
+- AppSource App - The extension uploading dialog  in the SD LinkBox Extension page was updated.
 
 - AppSource App - The links in the About page were updated.
 
