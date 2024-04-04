@@ -31,6 +31,7 @@
 ### 6.0.0
 
 #### Enhancements
+
 - BCv21 App - New functionality was added to SD LinkBox to allow a user to surface a Drop Point on a page without the need for a developer to create an extension. Users can create and publish a custom extension in the SD Linkbox Extension page.
 
 - BCv21 App - The App Name field in the SD Linkbox Extension page was changed to default to SD Linkbox Extension and was set to non-editable. After choosing the Create App action, the Publisher field is also set to non-editable.
@@ -197,25 +198,31 @@
 
 - BCv18 Public App - Fixed an error that was raised when the Add Template File action chosen in the Dropped Files Factbox.
 
+### 4.0.1
+
+#### Enhancements
+
+- BCv14 Private App - An SD Linkbox Permission Set was added to the App.
+
 ### 4.0.0
 
 #### Enhancements
 
 - BCv14 Private App - Recipients subpage not editable when sending DocuSign Templates.
 
-- Refactored code to prevent Error messages when adding Template file to Drop Point.
+- BCv14 Private App - Refactored code to prevent Error messages when adding Template file to Drop Point.
 
 - BCv14 Private App - Reworked functionality to the Attach Report action on Drop Points.
 
 - BCv14 Private App - Reworked functionality to fix the View Template File action in Drop Point Card.
 
-- BCv14 C/AL - A C/AL Upgrade Path from v3.0.0 C/AL to v4.0.0 C/AL was developed.
-
-- BCv14 C/AL - Setup tables were added to the XML Export files.
-
 - BCv14 Private App - The product activation/licensing setup was added to the product.
 
 - BCv14 Private App - Converted version 4.0.0 C/AL code base to Private App AL Extensions.
+
+- BCv14 C/AL - A C/AL Upgrade Path from v3.0.0 C/AL to v4.0.0 C/AL was developed.
+
+- BCv14 C/AL - Setup tables were added to the XML Export files.
 
 - BCv14 C/AL - Expiry Date format is now based on local settings.
 
