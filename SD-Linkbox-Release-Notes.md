@@ -1,5 +1,11 @@
 ## SD Linkbox Releases
 
+### 6.0.3
+
+#### Bug Fixes
+
+AppSource App - A fix was made the SD LinkBox Extension Page where page extension names were identical due to the length of the original page name.
+
 ### 6.0.2
 
 #### Enhancements
