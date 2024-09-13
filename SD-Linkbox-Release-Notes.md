@@ -1,5 +1,15 @@
 ## SD Linkbox Releases
 
+### 6.0.4
+
+#### Enhancements
+
+- AppSource App - User Groups are retired in 2024 release wave 2 and are replaced with Security Groups. A new SD LinkBox Security field was added to the SD LinkBox Drop Point Card.
+
+- AppSource App - A change was made to the Assisted Setup data import functionality.
+
+- AppSource App - The logo in the App was updated to the new logo.
+
 ### 6.0.3
 
 #### Bug Fixes
