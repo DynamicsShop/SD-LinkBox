@@ -6,6 +6,8 @@
 
 - AppSource App - User Groups are retired in 2024 release wave 2 and are replaced with Security Groups. A new SD LinkBox Security field was added to the SD LinkBox Drop Point Card.
 
+- AppSource App - The control add-in functionality in the Drop Point Card was reworked.
+
 - AppSource App - A change was made to the Assisted Setup data import functionality.
 
 - AppSource App - The logo in the App was updated to the new logo.
