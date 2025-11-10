@@ -1,5 +1,13 @@
 ## SD Linkbox Releases
 
+### 6.1.1
+
+#### Enhancements
+
+- AppSource App - Changes were made to ensure compatibility with the D365 BC 2025 Wave 2 release. GeneratePassword was replaced in the SDY ULB Utilities Codeunit.
+
+- AppSource App - The notification prompting users to activate a free trial of SD LinkBox on a fresh install has been limited to display no more than once per hour on standard role centres.
+
 ### 6.1.0
 
 #### Enhancements
@@ -608,6 +616,7 @@ Profiler: 
 - Profiler - Renumbered and reordered the Tables and Pages. 
 - Cleaned up the objects. 
 - Code upgraded to 2016.
+
 
 
 
