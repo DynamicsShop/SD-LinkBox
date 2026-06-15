@@ -232,27 +232,17 @@ AppSource App - A fix was made the SD LinkBox Extension Page where page extensio
 
 - BCv18 Public App - Fixed an issue where the report is generated if you choose cancel on the report filters after choosing the Test Report Action in the Drop Point Card. 
 
-- BCv18 Public App - Fixed an issue where a blank report was generated and an error was raised on open of the report if the user chose the Test Report Action in the Drop Point Card and no report content was generated.
-
 - BCv18 Public App - On selection of the Document Report No. in the Drop Point Card, the name of the chosen report did not default into the Document Generation Report Name.
-
-- BCv18 Public App - The Report sent to DocuSign from the Drop Point was not the report that the user was prompted to sign when logging in to DocuSign.
 
 - BCv18 Public App - Check in Reminders were only sending for a linked record once even if there were multiple drop points or dropped files linked to the record.
 
 - BCv18 Public App - A file was successfully dropped and uploaded to a OneDrive Drop Point but when downloading or viewing the file an error was raised.
 
-- BCv18 Public App - Fixed an issue where reverting a file was not logged in the Checkout Log.
-
 - BCv18 Public App - Fixed an issue where the Send Check-In Reminder was enabled for the user who checked out the file but not for the user who needed to send the reminder to the person who had the file checked out.
 
 - BCv18 Public App - Fixed an issue where renaming/modifying a Drop Point Code caused the system to hang. Also users are no longer allowed to modify a Drop Point code once files have been dropped to the Drop Point. An exception being Drop Points with a database storage type.
 
-- BCv18 Public App - The option to check back in a checked out file was disabled.
-
 - BCv18 Public App - The icon on the Drop Point Card was intermittently displaying the incorrect Icon chosen in the Drop Point Card.
-
-- BCv18 Public App - Fixed an error that was raised when the Add Template File action chosen in the Dropped Files Factbox.
 
 ### 4.0.1
 
