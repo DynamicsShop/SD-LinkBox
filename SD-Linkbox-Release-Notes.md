@@ -1,5 +1,17 @@
 ## SD Linkbox Releases
 
+### 6.1.2
+
+#### Enhancements
+
+- A Migration Manager Codeunit for data and file migration from C/AL to AL was created.
+
+- An API Page for data and file migration from C/AL to AL was created.
+
+- The Manage Subscriptions Page, accessed from the Setup Card, was updated.
+
+- The link in the View Our Apps action on the Setup Card was updated.
+
 ### 6.1.1
 
 #### Enhancements
